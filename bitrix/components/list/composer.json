@@ -1,0 +1,14 @@
+{
+    "name": "starlabs/list",
+    "description": "Component list",
+    "type": "bitrix-component",
+    "authors": [
+        {
+            "name": "Nathan Stark",
+            "email": "stark@starlabs.su"
+        }
+    ],
+    "require": {
+        "composer/installers": "~1"
+    }
+}
